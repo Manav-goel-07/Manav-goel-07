@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there! I'm Manav Goel
 
-<!--
-**Manav-goel-07/Manav-goel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st year IT student at NSUT, Delhi  
+💻 Learning Python, Data Structures & Algorithms
+🌱 Currently exploring: Open Source, Git, and building small projects  
+🚀 Passionate about solving real-world problems with code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech I’m working with:
+- Python, C++
+- Git & GitHub
+
+---
+
+### 📌 Current projects:
+- ✏ Python-Basics: small practice scripts as I learn
+---
+
+### 📫 Reach me:
+- Email: goel.manav07@gmail.com
+
+⚡ *Looking forward to learning and implementing some real interesting stuff!🔥🔥*
