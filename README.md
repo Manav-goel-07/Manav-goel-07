@@ -1,20 +1,22 @@
 ## 👋 Hi there! I'm Manav Goel
 
 🎓 1st year IT student at NSUT, Delhi  
-💻 Learning Python, Data Structures & Algorithms
-🌱 Currently exploring: Open Source, Git, and building small projects  
+💻 Learning Python,c++, Data Structures & Algorithms
+🌱 Currently exploring: Open Source and building small projects  
 🚀 Passionate about solving real-world problems with code
 
 ---
 
 ### 🧰 Tech I’m working with:
 - Python, C++
-- Git & GitHub
+- DSA
+- AI/ML
+- html, css
 
 ---
 
 ### 📌 Current projects:
-- ✏ Python-Basics: small practice scripts as I learn
+- Aumsecurity- AI enabled face recognition system to improve security and convinience.
 ---
 
 ### 📫 Reach me:
