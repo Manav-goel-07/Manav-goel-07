@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Manav Goel
 
 🎓 1st year IT student at NSUT, Delhi  
-💻 Learning Python,c++, Data Structures & Algorithms
+💻 Learning Python,c++, Data Structures & Algorithms       
 🌱 Currently exploring: Open Source and building small projects  
 🚀 Passionate about solving real-world problems with code
 
